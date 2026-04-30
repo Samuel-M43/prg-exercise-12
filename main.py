@@ -1,6 +1,4 @@
-def main():
-    print("Hello from prg-exercise-12!")
+import glob
+import numpy as np
+import matplotlib.pyplot as plt
 
-
-if __name__ == "__main__":
-    main()
